@@ -12,6 +12,8 @@ https://github.com/pytorch/examples/tree/main/fast_neural_style
 ### Siti utili 
 https://arxiv.org/pdf/1508.06576.pdf (2015)
 
+https://arxiv.org/pdf/1603.08155.pdf (2016)
+
 https://towardsdatascience.com/how-do-neural-style-transfers-work-b76de101eb3 (top)
 
 https://www.tensorflow.org/tutorials/generative/style_transfer?hl=it
