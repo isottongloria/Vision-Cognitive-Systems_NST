@@ -9,6 +9,9 @@ https://github.com/cysmith/neural-style-tf/
 
 https://github.com/pytorch/examples/tree/main/fast_neural_style
 
+
+https://github.com/elenaliao1002/neural-style-transfer/blob/main/image_style_transfer.py
+
 ### Siti utili 
 https://arxiv.org/pdf/1508.06576.pdf (2015)
 
@@ -19,3 +22,6 @@ https://towardsdatascience.com/how-do-neural-style-transfers-work-b76de101eb3 (t
 https://www.tensorflow.org/tutorials/generative/style_transfer?hl=it
 
 https://it.mathworks.com/help/images/neural-style-transfer-using-deep-learning.html
+
+
+https://medium.com/@ferlatti.aldo/neural-style-transfer-nst-theory-and-implementation-c26728cf969d
