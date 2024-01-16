@@ -7,7 +7,8 @@ https://github.com/gordicaleksa/pytorch-neural-style-transfer/tree/master
 
 https://github.com/cysmith/neural-style-tf/
 
-https://github.com/pytorch/examples/tree/main/fast_neural_style
+https://github.com/pytorch/examples/tree/main/fast_neural_style (implementazione del codice del 2016)
+
 
 
 https://github.com/elenaliao1002/neural-style-transfer/blob/main/image_style_transfer.py
