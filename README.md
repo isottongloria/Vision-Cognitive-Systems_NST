@@ -13,6 +13,8 @@ https://github.com/pytorch/examples/tree/main/fast_neural_style
 https://github.com/elenaliao1002/neural-style-transfer/blob/main/image_style_transfer.py
 https://github.com/elenaliao1002/neural-style-transfer/blob/main/report.ipynb
 
+https://github.com/dxyang/StyleTransfer  (implementazione del codice del 2016)
+
 ### Siti utili 
 https://arxiv.org/pdf/1508.06576.pdf (2015)
 
