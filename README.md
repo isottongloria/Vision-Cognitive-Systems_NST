@@ -31,3 +31,5 @@ https://it.mathworks.com/help/images/neural-style-transfer-using-deep-learning.h
 
 
 https://medium.com/@ferlatti.aldo/neural-style-transfer-nst-theory-and-implementation-c26728cf969d
+
+https://www.cs.princeton.edu/courses/archive/fall17/cos429/COS429-proj/COS429_neuralstyle_HaochenYuyan.pdf (paper with comparison)
