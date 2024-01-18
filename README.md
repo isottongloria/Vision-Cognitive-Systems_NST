@@ -38,3 +38,5 @@ https://medium.com/@ferlatti.aldo/neural-style-transfer-nst-theory-and-implement
 https://www.cs.princeton.edu/courses/archive/fall17/cos429/COS429-proj/COS429_neuralstyle_HaochenYuyan.pdf (paper with comparison)
 
 review letter with all the papers: https://arxiv.org/pdf/1705.04058.pdf
+
+project of replicating the papers : https://www.cs.princeton.edu/courses/archive/fall17/cos429/COS429-proj/COS429_neuralstyle_HaochenYuyan.pdf
