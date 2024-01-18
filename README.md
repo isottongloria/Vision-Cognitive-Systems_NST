@@ -1,5 +1,8 @@
 # Vision-CognitiveSystems_TEMP
 
+## Cose da provare
+in teoria questo optimizer è piu veloce for some reasons:  optimizer = LBFGS((optimizing_img,), max_iter=num_of_iterations['lbfgs'], line_search_fn='strong_wolfe')
+
 ### Github codici utili:
 https://github.com/blackburn07x/Convolutional-Neural-network-Classification-Projects/blob/main/Neural%20Style%20Transfer/Neural%20Style%20tranfer.py
 
