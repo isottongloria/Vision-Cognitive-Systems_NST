@@ -1,14 +1,14 @@
 # Vision-CognitiveSystems_TEMP
 #
-import numpy as np\\
-lr = 10\\
-lr_list = np.zeros(num_epochs)\\
-N_adaptive_lr = num_epochs-num_epochs//10\\
-lr_list[:N_adaptive_lr] = np.linspace(0.1, lr, num=N_adaptive_lr, endpoint=True\\
-lr_list[N_adaptive_lr:] = lr\\
+import numpy as np
+lr = 10
+lr_list = np.zeros(num_epochs)
+N_adaptive_lr = num_epochs-num_epochs//10
+lr_list[:N_adaptive_lr] = np.linspace(0.1, lr, num=N_adaptive_lr, endpoint=True
+lr_list[N_adaptive_lr:] = lr
 
-for epochs .. :\\
-  lr = lr_list[epochs]\\
+for epochs .. :
+  lr = lr_list[epochs]
 #
 ## Cose da provare
 in teoria questo optimizer è piu veloce for some reasons:  optimizer = LBFGS((optimizing_img,), max_iter=num_of_iterations['lbfgs'], line_search_fn='strong_wolfe')
