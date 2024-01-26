@@ -1,0 +1,9 @@
+
+    num_epochs = 1000
+    lr = 0.1
+    alpha = 1e5
+    beta = 5e2
+    tv_weight = 0.1
+    capture_content_features_from = {'conv11', 'conv21', 'conv31', 'conv41', 'conv51'}
+    capture_style_features_from = {'conv11', 'conv21', 'conv31', 'conv41', 'conv51'}
+     
