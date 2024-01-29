@@ -1,0 +1,5 @@
+For all styles, the image is relative to iteration number 500 (after that, there was no evolution for all styles).
+In the name of each image, The values of beta and tv_weight are specified.
+The rest of the parameters are equal for all simulations:
+- learn_rate =0.1
+- alpha = 5.0
