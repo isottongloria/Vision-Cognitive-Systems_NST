@@ -20,6 +20,8 @@ https://github.com/elenaliao1002/neural-style-transfer/blob/main/report.ipynb
 https://github.com/dxyang/StyleTransfer  (implementazione del codice del 2016)
 
 ### Siti utili 
+https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf 
+
 https://arxiv.org/pdf/1508.06576.pdf (2015)
 
 This paper proposes the use of perceptual loss functions for training feed-forward networks for image transformation tasks, instead of using per-pixel loss functions:
