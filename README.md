@@ -1,4 +1,6 @@
 # Vision-CognitiveSystems_TEMP
+## slides
+https://docs.google.com/presentation/d/179fGnUHUibLPVmpNq2iqawrUuS-xekwtlX3CZ5hCR68/edit#slide=id.p
 
 ## Cose da provare
 in teoria questo optimizer è piu veloce for some reasons:  optimizer = LBFGS((optimizing_img,), max_iter=num_of_iterations['lbfgs'], line_search_fn='strong_wolfe')
