@@ -1,4 +1,4 @@
-# Vision-CognitiveSystems
+# Neural Style Transfer
 Implementation of Neural Style Transfer algorithm for the Vision and ognitive systems final project.    
 In this repository you will find:
 - pdf with Project guidelines
