@@ -5,4 +5,4 @@ In this repository you will find:
 - Jupyter notebook with the code implementation
 - Folder with content images used as input
 - Folder with style images used as input
-- Folder with images produced as result of various tests
+- Folders with images produced as result of various tests
