@@ -4,6 +4,7 @@ Implementation of Neural Style Transfer algorithm by Gatys et al. [NST_Gatys](ht
 for the Vision and Cognitive systems' course of the Physics of Data Master's Degree at University of Padua.     
 In this repository you will find:
 - pdf with Project guidelines
+- Report about the insights of our work
 - Jupyter notebook with the code implementation
 - Folder with content images used as input
 - Folder with style images used as input
